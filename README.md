@@ -1,2 +1,3 @@
 # Description of the demonstration project
-# sk
+
+This is a demo project
